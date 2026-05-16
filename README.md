@@ -57,7 +57,7 @@ Visit at [os.zifcak.dev](https://os.zifcak.dev)
 4. Start the application
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and start testing your knowledge!
